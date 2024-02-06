@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themaheshsalpure" alt="themaheshsalpure" /></a> </p>
 
-- 🔭 I’m currently working on **Universal - AI**
+- 🔭 I’m currently working on **Universal - AI and Image Processing Under Harsh Environment(Underground)**
 
 - 🌱 I’m currently learning **Tensorflow**
 
