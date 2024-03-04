@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Universal - AI**
 
-- - 🔭 I’m currently working on **Image Processing Under Harsh Environment(Underground)**
+- - 🔭 I’m currently working on **Techgium Hackathon POC - Image Processing Under Harsh Environment(Underground)**
 
 - 🌱 I’m currently learning **Tensorflow**
 
