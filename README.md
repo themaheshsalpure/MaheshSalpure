@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **maheshsalpure171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GocwYp0oATgWhhTZ5TYICwR5C2OJgblR/view?usp=sharing](https://drive.google.com/file/d/1GocwYp0oATgWhhTZ5TYICwR5C2OJgblR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GocwYp0oATgWhhTZ5TYICwR5C2OJgblR/view?usp=sharing](https://drive.google.com/file/d/1tvT-52IXG9kYZq77P7VLRMPRyjdpTy0y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
